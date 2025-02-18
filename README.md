@@ -5,7 +5,7 @@ Step 1: Download Git, Visual Studio Code, and create a Github Account.
 2. [Download Visual Studio Code](https://code.visualstudio.com/)
 3. [Create a Github Account](https://github.com/)
 
-Step 2: Test for Successful Installation
+Step 2: Test for Successful Installation.
 1. Press Windows key and type "Git"
 2. Git Bash should pop up. This is a terminal where you can type git commands.
 3. On your Visual Studio Code, go to File -> Preferences -> Settings (or input Ctrl+,)
