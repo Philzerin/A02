@@ -20,6 +20,20 @@ Step 3: Activate Github Account through CMD Terminal
 6. Paste the URL your copied from Github into this and select a directory for the Repo to be cloned in.
 
 
+### Glossary
+**Branch** - A branch is a separate section of repository that can be used to add new features without messing up the main branch.
+**Clone** - A clone of a repo is when you replicate the code onto your local system.
+**Commit** - A commit is when the code had changes done to it and is ready to be pushed up to the remote repository.
+**Fetch** - Fetch is what you bring the changes from the remote repo onto your local machine.
+**GIT** - Git is whats used when pushing, pulling, and any other git commands.
+**Github** - Github is like a storage for your code, making it easily accessible both remotely and locally.
+**Merge** - When you merge you are syncing different code together and hoping they function correctly.
+**Merge Conflict** - If a merge isnt not fully synced, a merge conflict appears and changes need to be made for the merge to process.
+**Push** - A push is putting local code remotely.
+**Pull** - Pull is grabbing remote code to your local machine.
+**Remote** - Remote is the code thats not on your local machine.
+**Repository** - Repository is where all branches and code are stored.
+
 Reference List:
 1. https://www.youtube.com/watch?v=3Tsaxxv9sls&ab_channel=TheCodeCity
 2. https://code.visualstudio.com/docs/sourcecontrol/github
