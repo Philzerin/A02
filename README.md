@@ -21,8 +21,8 @@ Step 3: Activate Github Account through CMD Terminal
 
 
 ### Glossary
-**Branch** - A branch is a separate section of repository that can be used to add new features without messing up the main branch.
-**Clone** - A clone of a repo is when you replicate the code onto your local system.
+- **Branch** - A branch is a separate section of repository that can be used to add new features without messing up the main branch. 
+- **Clone** - A clone of a repo is when you replicate the code onto your local system.
 **Commit** - A commit is when the code had changes done to it and is ready to be pushed up to the remote repository.
 **Fetch** - Fetch is what you bring the changes from the remote repo onto your local machine.
 **GIT** - Git is whats used when pushing, pulling, and any other git commands.
